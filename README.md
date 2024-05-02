@@ -1,4 +1,4 @@
-# Feature-aligned N-BEATS
+# Feature-aligned N-BEATS (ICLR 2024 Spotlight)
 
 Official PyTorch Implementation of [Feature-aligned N-BEATS with Sinkhorn divergence](https://arxiv.org/abs/2305.15196).
 
